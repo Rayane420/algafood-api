@@ -30,3 +30,4 @@
 - [ ] Documentação da API com SpringDoc
 
 ### Modelo de domínio - Diagrama de classes do projeto
+![imagem com diagrama de classe do projeto](https://github.com/Rayane420/algafood-api/blob/main/algafood-api/docs/diagrama-de-classes-de-dominio.jpg)
