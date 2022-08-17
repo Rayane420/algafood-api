@@ -2,6 +2,9 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)<br>
 ![GitHub Org's stars](https://img.shields.io/github/stars/Rayane420?style=social)
 
+🏷️ Sobre o Projeto: <br>
+MVP de Sistema de delivery de comida (como Uber eats ou Ifood)
+
 ### Plano de estudos: 
 - [ ] Spring e Injeção de Depêndencias 
 - [ ] Introdução ao JPA e Hibernate 
