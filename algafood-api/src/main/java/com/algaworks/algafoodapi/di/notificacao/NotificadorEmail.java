@@ -1,10 +1,9 @@
 package com.algaworks.algafoodapi.di.notificacao;
 
 import com.algaworks.algafoodapi.di.modelo.Cliente;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
-@Qualifier("normal")
+@TipoDoNotificador(NivelUrgencia.BAIXA_URGENCIA)
 @Component
 public class NotificadorEmail implements Notificador {
 
